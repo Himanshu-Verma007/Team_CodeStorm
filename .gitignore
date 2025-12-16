@@ -1,0 +1,5 @@
+customers.db
+generated_letters/
+*.mp4
+__pycache__/
+.venv/
